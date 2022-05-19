@@ -9,7 +9,7 @@ print("Hi I've added the navigation Bar")
 
 
 # Dev 2 change 2
-
+# Used the other dev's changes for a feature
 
 # Dev 2 change 3
 
